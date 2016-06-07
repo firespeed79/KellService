@@ -1,0 +1,16 @@
+F:\2016\KellService\KellService\bin\Debug\KellService.exe.config
+F:\2016\KellService\KellService\bin\Debug\KellService.exe
+F:\2016\KellService\KellService\bin\Debug\KellService.pdb
+F:\2016\KellService\KellService\bin\Debug\SelfHost.dll
+F:\2016\KellService\KellService\bin\Debug\SelfHost.pdb
+F:\2016\KellService\KellService\obj\Debug\KellService.csprojResolveAssemblyReference.cache
+F:\2016\KellService\KellService\obj\Debug\KellService.exe
+F:\2016\KellService\KellService\obj\Debug\KellService.pdb
+E:\soft\KellService\KellService\bin\Debug\KellService.exe.config
+E:\soft\KellService\KellService\obj\Debug\KellService.exe
+E:\soft\KellService\KellService\obj\Debug\KellService.pdb
+E:\soft\KellService\KellService\bin\Debug\KellService.exe
+E:\soft\KellService\KellService\bin\Debug\KellService.pdb
+E:\soft\KellService\KellService\bin\Debug\SelfHost.dll
+E:\soft\KellService\KellService\bin\Debug\SelfHost.pdb
+E:\soft\KellService\KellService\obj\Debug\KellService.csprojResolveAssemblyReference.cache

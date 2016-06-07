@@ -1,0 +1,9 @@
+E:\soft\KellService\ServiceLib\bin\Debug\ServiceLib.dll
+E:\soft\KellService\ServiceLib\bin\Debug\ServiceLib.pdb
+E:\soft\KellService\ServiceLib\bin\Debug\SelfHost.dll
+E:\soft\KellService\ServiceLib\bin\Debug\SelfHost.pdb
+E:\soft\KellService\ServiceLib\obj\Debug\ServiceLib.csprojResolveAssemblyReference.cache
+E:\soft\KellService\ServiceLib\obj\Debug\ServiceLib.dll
+E:\soft\KellService\ServiceLib\obj\Debug\ServiceLib.pdb
+E:\soft\KellService\ServiceLib\bin\Debug\KellService.exe
+E:\soft\KellService\ServiceLib\bin\Debug\KellService.pdb
